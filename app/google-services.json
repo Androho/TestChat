@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "873520945535",
+    "firebase_url": "https://testchat-c27fe.firebaseio.com",
+    "project_id": "testchat-c27fe",
+    "storage_bucket": "testchat-c27fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873520945535:android:ceefaa8d5d0eb269",
+        "android_client_info": {
+          "package_name": "io.github.androho.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873520945535-hbfijcutn78ckg6tfcs4na14uskqf2hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.androho.testchat",
+            "certificate_hash": "0692c65f0baf3904e999c402ae3771dfaf80512b"
+          }
+        },
+        {
+          "client_id": "873520945535-nj95knih2rs0p18d4dir9j7p3rgmuigk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.androho.testchat",
+            "certificate_hash": "0d00b68cf2ac5ec02e547a2a411e5e039655f25e"
+          }
+        },
+        {
+          "client_id": "873520945535-7sc7moehj8dj0i72ntgicv3fgfgs9vg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Dkrsn6W58bzyLKUFGUapZ1tBRIib0W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873520945535-7sc7moehj8dj0i72ntgicv3fgfgs9vg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

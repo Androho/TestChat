@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Chat</string>
+    <string name="YOUR_ADMOB_APP_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="login">Вход выполнен</string>
+    <string name="logout">Вход не выполнен</string>
+    <string name="sponsored">Sponsored</string>
+    <string name="watch_this_cool_gms_ad">Watch this cool gms ad!</string>
+    <string name="show_reward">Show Reward!</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="reward_admob">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="toast_mess">Message from user</string>
+</resources>
